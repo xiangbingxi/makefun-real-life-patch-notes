@@ -1,0 +1,1 @@
+Laundry v2.1: Socks now disappear in pairs so you can stop keeping the survivor around for closure.
