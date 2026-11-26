@@ -1,12 +1,12 @@
 # Real-Life Patch Notes: The Comedy Changelog
 
 [![make.fun](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
-[![rank](https://make.fun/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/xiangbingxi/makefun-real-life-patch-notes/rank.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
-[![reward](https://make.fun/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/xiangbingxi/makefun-real-life-patch-notes/reward.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
+[![rank](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/xiangbingxi/makefun-real-life-patch-notes/rank.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
+[![reward](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/xiangbingxi/makefun-real-life-patch-notes/reward.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
 
 One-line patch note for a bug in real life, 160 characters max.
 
-Competition: https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d
+Competition: [Competition](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
 
 ## Entry
 
